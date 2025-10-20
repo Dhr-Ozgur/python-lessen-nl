@@ -15,3 +15,12 @@ In deze les leer je hoe je je eerste Python-programma schrijft en uitvoert.
 ## 💻 Voorbeeld
 ```python
 print("Hallo wereld!")
+🧠 Uitleg
+
+De functie print() toont tekst op het scherm.
+De tekst tussen aanhalingstekens " " heet een string (tekstwaarde).
+
+Je kunt meerdere regels gebruiken:
+
+print("Hallo!")
+print("Ik leer Python.")
