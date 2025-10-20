@@ -1,8 +1,8 @@
 # 🐍 Les 1 – Hallo Wereld
 
 Welkom bij de eerste les van de **Python Lessenreeks**!  
-In deze les leer je hoe je tekst op het scherm kunt tonen met de functie `print()`.  
-We beginnen met het beroemde *Hallo Wereld!* voorbeeld.
+In deze les leer je de functie `print()` gebruiken om tekst op het scherm te tonen.  
+We beginnen met het klassieke *Hallo Wereld!* voorbeeld.
 
 ---
 
@@ -10,13 +10,14 @@ We beginnen met het beroemde *Hallo Wereld!* voorbeeld.
 - Een Python-bestand uitvoeren  
 - De functie `print()` begrijpen  
 - Tekst tonen op het scherm  
-- Basis van strings leren kennen  
-- Kleine programma’s schrijven en uitvoeren  
+- Strings leren gebruiken  
 
 ---
 
 ## 💻 Voorbeelden
-
-### Voorbeeld 1
 ```python
 print("Hallo wereld!")
+print("Welkom bij Python!")
+print("Ik leer programmeren.")
+print("Dit is een leuke cursus!")
+print("Python is geweldig! 🐍")
