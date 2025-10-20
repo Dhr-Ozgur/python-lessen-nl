@@ -1,51 +1,99 @@
 # 🐍 Les 1 – Hallo Wereld
 
 Welkom bij de eerste les van de **Python Lessenreeks**!  
-In deze les leer je de functie `print()` gebruiken om tekst op het scherm te tonen.  
-We beginnen met het klassieke *Hallo Wereld!* voorbeeld.
+In deze les leer je de basis van Python: de functie `print()` gebruiken om tekst op het scherm te tonen.
 
 ---
 
 ## 🎯 Leerdoelen
-- Een Python-bestand uitvoeren  
-- De functie `print()` begrijpen  
-- Tekst tonen op het scherm  
+- De `print()` functie begrijpen  
+- Tekst op het scherm tonen  
 - Strings leren gebruiken  
+- Werken met meerdere regels uitvoer  
+- Eenvoudige foutopsporing (debuggen)  
 
 ---
 
 ## 💻 Voorbeelden
+
+### Voorbeeld 1 – Hallo Wereld
 ```python
 print("Hallo wereld!")
+```
+
+### Voorbeeld 2 – Twee regels
+```python
 print("Welkom bij Python!")
 print("Ik leer programmeren.")
-print("Dit is een leuke cursus!")
-print("Python is geweldig! 🐍")
+```
 
+### Voorbeeld 3 – Tekst combineren
+```python
+print("Hallo, mijn naam is Emma.")
+print("Ik ben 25 jaar oud.")
+```
 
-Uitvoer:
+### Voorbeeld 4 – Lege regel
+```python
+print("Eerste regel\nTweede regel")
+```
 
-Hallo wereld!
-Welkom bij Python!
-Ik leer programmeren.
-Dit is een leuke cursus!
-Python is geweldig! 🐍
+### Voorbeeld 5 – Emoji gebruiken
+```python
+print("Python is leuk! 🐍")
+```
 
-🧠 Uitleg
+### Voorbeeld 6 – Tekst en getallen
+```python
+leeftijd = 30
+print("Ik ben", leeftijd, "jaar oud.")
+```
 
-De functie print() toont tekst op het scherm.
-Alles tussen aanhalingstekens " " is een string.
-Elke print() verschijnt op een nieuwe regel.
+### Voorbeeld 7 – Tekstbanner
+```python
+print("***************")
+print("*   Python!   *")
+print("***************")
+```
 
-Je kunt tekst, cijfers en emoji’s combineren:
+### Voorbeeld 8 – Multiregel output
+```python
+print("Dit is een cursus over:")
+print("1. Print statements")
+print("2. Strings")
+print("3. Opdrachten uitvoeren")
+```
 
+### Voorbeeld 9 – Foutje herstellen
+```python
+# print("Hallo wereld!") <- commentaar betekent dat deze regel niet wordt uitgevoerd
+print("Hallo opnieuw!")
+```
+
+### Voorbeeld 10 – Alles samen
 ```python
 naam = "Ozgur"
 leeftijd = 30
-print("Mijn naam is", naam, "en ik ben", leeftijd, "jaar oud.")
+print("Mijn naam is", naam)
+print("Ik ben", leeftijd, "jaar oud")
+print("Welkom bij Python! 🐍")
+```
 
+---
 
-Uitvoer:
+## 🧠 Uitleg
+De functie **`print()`** toont tekst op het scherm.  
+Alles tussen `" "` is een **string**.  
+Elke aanroep van `print()` maakt een **nieuwe regel**.  
+Met `\n` voeg je een **lege regel** toe.  
+Je kunt tekst, getallen en emoji’s combineren.  
 
-Mijn naam is Ozgur en ik ben 30 jaar oud.
+---
 
+## 🧩 Opdrachten
+Zie het bestand `opdrachten.md` voor 10 oefeningen van makkelijk tot moeilijk.
+
+---
+
+## ✅ Oplossingen
+Zie het bestand `oplossingen.py` voor de uitgewerkte antwoorden.
