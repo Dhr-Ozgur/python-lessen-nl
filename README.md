@@ -1,4 +1,4 @@
-# 🇳🇱 Python Lessenreeks – Van Beginner tot Gevorderde 🐍
+# 🇳🇱 Python Lessenreeks - Van Beginner tot Gevorderde 🐍
 
 Welkom bij de **Python Lessenreeks in het Nederlands**!  
 Deze cursus bestaat uit **20 volledige lessen** — van je eerste "Hallo Wereld!" tot een volledig **data-analyseproject** met JSON, CSV en visualisaties.
@@ -97,4 +97,4 @@ Ontworpen door **Ozgur** – Python-docent & ontwikkelaar.
 
 ---
 
-> 🐍 *“De beste manier om Python te leren, is door te programmeren — elke dag een beetje meer.”*
+> 🐍 *“De beste manier om Python te leren, is door te programmeren- elke dag een beetje meer.”*
