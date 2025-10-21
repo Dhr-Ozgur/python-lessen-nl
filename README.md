@@ -105,4 +105,4 @@ Vrij te gebruiken, delen en aanpassen met bronvermelding.
 **Ozgur**  
 📘 Auteur van de Nederlandstalige Python Lessenreeks (20 lessen)  
 🔗 [GitHub-profiel](https://github.com/Dhr-Ozgur)  
-🐍 _“De beste manier om Python te leren, is door te programmeren — elke dag een beetje meer.”_
+🐍 _“De beste manier om Python te leren, is door te programmeren - elke dag een beetje meer.”_
