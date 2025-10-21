@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License">
 </p>
 
-<h1 align="center">🇳🇱 Python Lessenreeks – Van Beginner tot Gevorderde 🐍</h1>
+<h1 align="center">🇳🇱 Python Lessenreeks - Van Beginner tot Gevorderde 🐍</h1>
 
 <p align="center">
   <b>Een complete Nederlandstalige Python-cursus met 20 lessen, voorbeelden, oefeningen en oplossingen.</b>
@@ -17,7 +17,7 @@
 ## 📘 Overzicht
 
 Deze cursus begeleidt je stap voor stap van absolute beginner tot zelfstandig Python-programmeur.  
-Je leert alles — van <code>print("Hallo wereld!")</code> tot JSON, API’s en data-analyse met grafieken.
+Je leert alles - van <code>print("Hallo wereld!")</code> tot JSON, API’s en data-analyse met grafieken.
 
 ---
 
@@ -77,7 +77,7 @@ lesXX_onderwerp/
 
 1. Clone of download de repository:  
    ```bash
-   git clone https://github.com/<jouw-gebruikersnaam>/python-lessen-nl.git
+   git clone https://github.com/Dhr-Ozgur/python-lessen-nl.git
    ```
 2. Open de map van een les, lees de uitleg, probeer de opdrachten.
 3. Vergelijk met de oplossingen.
