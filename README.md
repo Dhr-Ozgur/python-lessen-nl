@@ -1,6 +1,6 @@
 # 🇳🇱 Python Lessenreeks
 
-Een complete Python-cursus in het Nederlands — van beginner tot gevorderde, met voorbeelden en oplossingen.
+Een complete Python-cursus in het Nederlands- van beginner tot gevorderde, met voorbeelden en oplossingen.
 
 ## 📚 Overzicht
 - 20 lessen van basis tot gevorderd niveau
