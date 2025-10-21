@@ -86,4 +86,19 @@ print("Afspraak om:", tijd)
 
 ## 🧠 Uitleg
 - **`datetime.date`** = alleen datum  
-- **`datetime.time`** = allee
+- **`datetime.time`** = alleen tijd  
+- **`datetime.datetime`** = datum + tijd  
+- **`timedelta`** = verschil tussen datums  
+- **`strftime()`** = datum → string  
+- **`strptime()`** = string → datum  
+
+---
+
+## 🧩 Opdrachten
+Zie `opdrachten.md` voor 10 oefeningen over datum en tijd.
+
+---
+
+## ✅ Oplossingen
+Bekijk `oplossingen.py` voor de uitgewerkte antwoorden.
+
